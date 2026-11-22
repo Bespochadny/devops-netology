@@ -10,3 +10,4 @@ My Project
   - `.terraform.tfstate.lock.info` — временные файлы блокировок состояния.
   - `crash.log` — логи сбоев Terraform.
   - `.terraformrc` / `terraform.rc` — локальные конфигурационные файлы CLI.
+New line from fix branch
